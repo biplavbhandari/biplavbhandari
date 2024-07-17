@@ -1,16 +1,19 @@
-## Hi there friends 👋
 
-<!--
-**biplavbhandari/biplavbhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi there! I'm [Biplav]
+🌱 Aspiring Web Developer | Tech Enthusiast
+
+🚀 Currently learning: HTML, CSS, JavaScript, and React
+
+💡 Passionate about: Building beautiful and functional web interfaces
+
+🔭 Working on: My first web projects and honing my coding skills
+
+💬 Ask me about: My learning journey and the challenges of starting out in web development
+
+📫 How to reach me: [Twitter Handle:@biplavdada]
+
+🎨 Portfolio: [Your Portfolio URL (even if it’s a work in progress)]
+
+📚 Fun fact: I love exploring new technologies and am excited to contribute to open source 
