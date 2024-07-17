@@ -12,7 +12,7 @@
 
 💬 Ask me about: My learning journey and the challenges of starting out in web development
 
-📫 How to reach me: [Twitter Handle:@biplavdada]
+📫 How to reach me: Connect with me on Twitter, where I'm most active and ready to engage!
 
 🎨 Portfolio: [Your Portfolio URL (even if it’s a work in progress)]
 
