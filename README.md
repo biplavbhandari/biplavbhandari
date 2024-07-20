@@ -14,6 +14,6 @@
 
 📫 How to reach me: Connect with me on Twitter, where I'm most active and ready to engage!
 
-🎨 Portfolio: [Your Portfolio URL (even if it’s a work in progress)]
+🎨 Portfolio:
 
 📚 Fun fact: I love exploring new technologies and am excited to contribute to open source 
