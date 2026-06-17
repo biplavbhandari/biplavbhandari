@@ -1,17 +1,29 @@
 
 
+Hey, I'm Biplav 👋
+Cybersecurity & Networking guy based in Kathmandu 🇳🇵. I break things to understand how they work — then build them back stronger.
 
-👋 Hey, I’m Biplav — a tech explorer building sleek, functional web experiences and diving into cybersecurity.
+What I'm into 🔍
 
-🌱 Learning full-stack web dev (HTML, CSS, JS, ), Python, and Java alongside OSINT skills.
+Offensive security, web app pentesting, and working through PortSwigger labs
+Building toward bug bounty on HackerOne & Bugcrowd
+Cloud & IoT systems — sensors, MQTT, AWS, the whole pipeline
+Scripting and automating the boring stuff with Python & Bash
 
-🚀 Working on projects that blend clean code with creative design.
 
-💡 Passionate about problem-solving and turning ideas into reality.
+Projects 🚀
+ShopSafe — Built a deliberately vulnerable e-commerce app, then pentested it end-to-end across the full Cyber Kill Chain. IDOR, broken auth, missing RBAC — found it all.
+Room Security Monitor — ESP32 + MQTT + AWS EC2 + Grafana + SNS alerts. Real-time IoT security system deployed on the cloud with CloudFormation.
+Gym Membership System — Desktop GUI in Java. Clean OOP architecture, real-time duplicate detection, full member management.
 
-💬 Ask me about coding challenges, learning journeys, or OSINT discoveries.
+Tools I work with 🛠️
+Burp Suite Nmap Gobuster Wireshark Kali Linux Docker AWS Python Bash Java
 
-📫 Find me active on Twitter — let’s connect and build together!
+Currently 📖
 
-🎨 Portfolio coming soon | Open source enthusiast always exploring new tech.
+Grinding PortSwigger Web Security Academy
+Exploring real targets on HackerOne
+Always down to collaborate on security or dev projects
+
+
 
