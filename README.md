@@ -1,7 +1,7 @@
 
 
 Hey, I'm Biplav 👋
-Cybersecurity & Networking guy based in Kathmandu 🇳🇵. I break things to understand how they work — then build them back stronger.
+Cybersecurity & Networking guy . I break things to understand how they work — then build them back stronger.
 
 What I'm into 🔍
 
@@ -13,7 +13,9 @@ Scripting and automating the boring stuff with Python & Bash
 
 Projects 🚀
 ShopSafe — Built a deliberately vulnerable e-commerce app, then pentested it end-to-end across the full Cyber Kill Chain. IDOR, broken auth, missing RBAC — found it all.
+
 Room Security Monitor — ESP32 + MQTT + AWS EC2 + Grafana + SNS alerts. Real-time IoT security system deployed on the cloud with CloudFormation.
+
 Gym Membership System — Desktop GUI in Java. Clean OOP architecture, real-time duplicate detection, full member management.
 
 Tools I work with 🛠️
